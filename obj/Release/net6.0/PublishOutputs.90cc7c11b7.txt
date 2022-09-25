@@ -1,0 +1,7 @@
+/home/james/Desktop/IT/net-core/aspnetcoreapp/out/aspnetcoreapp
+/home/james/Desktop/IT/net-core/aspnetcoreapp/out/appsettings.Development.json
+/home/james/Desktop/IT/net-core/aspnetcoreapp/out/appsettings.json
+/home/james/Desktop/IT/net-core/aspnetcoreapp/out/aspnetcoreapp.dll
+/home/james/Desktop/IT/net-core/aspnetcoreapp/out/aspnetcoreapp.deps.json
+/home/james/Desktop/IT/net-core/aspnetcoreapp/out/aspnetcoreapp.runtimeconfig.json
+/home/james/Desktop/IT/net-core/aspnetcoreapp/out/aspnetcoreapp.pdb
